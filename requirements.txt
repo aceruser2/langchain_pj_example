@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+debugpy
+langchain-community
+langchain
+langchainhub
+langserve[all]
+pydantic==1.10.13
+faiss-cpu
+sentence-transformers
